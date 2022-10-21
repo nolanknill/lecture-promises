@@ -31,7 +31,7 @@ const detailedDogInfo = [
     },
     {
         name: "Lassie",
-        position: "Rough Collie",
+        breed: "Rough Collie",
         age: 6
     },
 ];
